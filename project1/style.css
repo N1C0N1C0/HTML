@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 768px) {
     .last {
-        width: 500px;
+        width: 700px;
         height: 500px;
     }
 
@@ -33,7 +33,7 @@
     }
 
     .cover__font {
-        width: 500px;
-        height: 200px;
+        width: 700px;
+        height: 500px;
     }
 }
